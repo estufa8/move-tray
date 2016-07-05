@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="UtilitatsDabet"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             Background="{DynamicResource VsBrush.Window}"
+             Foreground="{DynamicResource VsBrush.WindowText}"
+             mc:Ignorable="d"
+             d:DesignHeight="329" d:DesignWidth="598"
+             Name="MyToolWindow">
+    <Grid x:Name="grGrid">
+        <DockPanel>
+            <WrapPanel Orientation="Horizontal" DockPanel.Dock="Top">
+                <Button x:Name="btnMoveTraytoRight" Content="Move tray to right" Margin="2" >
+                    <Button.ToolTip>
+                        <StackPanel>
+                            <TextBlock>Moves the icon's tray from bottom to right in Forms designer</TextBlock>
+                        </StackPanel>
+                    </Button.ToolTip>
+                </Button>
+            </WrapPanel>
+        </DockPanel>
+    </Grid>
+</UserControl>

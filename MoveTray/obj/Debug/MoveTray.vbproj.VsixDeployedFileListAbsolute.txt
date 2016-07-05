@@ -1,0 +1,5 @@
+G:\Users\Administrador\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ivan Ferrer\Move Tray\1.0\\MoveTray.dll
+G:\Users\Administrador\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ivan Ferrer\Move Tray\1.0\\MoveTray.pkgdef
+G:\Users\Administrador\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ivan Ferrer\Move Tray\1.0\\extension.vsixmanifest
+G:\Users\Administrador\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ivan Ferrer\Move Tray\1.0\\tray.jpg
+G:\Users\Administrador\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ivan Ferrer\Move Tray\1.0\\MoveTray.pdb
